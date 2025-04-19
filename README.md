@@ -80,5 +80,8 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For queries, contact: [your-email@example.com](mailto\:your-email@example.com)
+## Contact
+
+For queries, contact: [shahkrish501@gmail.com](mailto:shahkrish501@gmail.com)
+
 
